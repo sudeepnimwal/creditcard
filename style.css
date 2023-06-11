@@ -1,0 +1,110 @@
+*{    
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+    color: #fff;
+}
+
+.wrapper{
+    background-color: rgb(36, 33, 33);
+    min-height: 100vh;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.full-navbar{
+    display: flex;
+    
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+.logo-set{
+    width: 80px;
+    
+}
+.left-bar{
+    display: flex;
+    width: 80%;
+    align-items: center;
+    justify-content: space-between;
+}
+ul.menu-list li {
+    padding: 0px 20px 0px 0px;
+}
+.menu-list{
+    list-style: none;
+    display: flex;
+    font-size: large;
+}
+.menu-btn{
+    align-items: center;
+    display: flex;
+}
+.nav-wrapper {
+    display: flex;
+}
+.full-navbar.left {
+    width: 50%;
+}
+.full-navbar {
+    display: flex;
+    width: 50%;
+}
+.right-bar{
+    width: 100%;
+}
+.right-bar {
+    width: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: end;
+    font-size: large;
+    
+}
+.right-bar a{text-decoration: none;}
+button.account{
+    margin-left: 30px;
+    color: black;
+    height: 40px;
+    width: 140px;
+    border: none;
+    border-radius: 35px;
+    font-weight: bold;
+}
+.text {
+    width: 50%;
+       font-size: 30px;}
+    .color1{color: rgb(136, 241, 136);}
+    .color2{color: rgb(124, 236, 162);}
+.text p{font-size: medium; padding-left: 10px;}
+input.email {
+    width: 490px;
+    height: 50px;
+    margin-top: 30px;
+    border: none;
+    border-radius: 10px;
+}
+.undertxt{display: flex;align-items: center;margin-top: 20px;justify-content:space-evenly}
+.undertxt h1{font-size: xx-large;}
+.undertxt hr{height: 30px;}
+.cards{display: flex;align-items: center;}
+.transaction{display: flex;align-items: center;}
+.imgtxt{display: flex;margin-top: 100px}
+.image{;
+width: ;}
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.footer img{
+    width:95%
+}
+
+.container-fluid{
+    width: 90%;
+    margin: 0 auto;
+}
+.parter {
+    width: 11%;
+}
